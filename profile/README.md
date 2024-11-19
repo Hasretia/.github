@@ -34,12 +34,12 @@ https://github.com/OmerChernia/HaSertia-Prototype
 - User flow simulations
   
 ### 3. 📋 Documentation Repository
-```bash
-https://github.com/OmerChernia/HaSertia-Documentation
-```
-- Detailed UML diagrams (.vpp)
-- System architecture specs
+[Click here to access system documentation](https://github.com/Hasretia/system-architecture-and-design/wiki)
+
+- UML diagrams
+- System architecture specifications
 - Requirements documentation
+
 
 
 
