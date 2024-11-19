@@ -1,5 +1,5 @@
 # 🎬 HASERTIA 
-### Movie Theater Management System
+### Movie Theater and Streaming Management System
 
 ## 🎯 Project Overview
 A comprehensive information system for managing a movie theater chain, developed for Software Engineering course in Spring 2024. Built to streamline theater operations and enhance customer experience.
