@@ -17,7 +17,7 @@ A comprehensive information system for managing a movie theater chain, developed
 
 ## 📚 Project Repositories
 
-### 1. 🚀 Final Project Repository
+### 1. 🚀 [Final Project Repository](https://github.com/OmerChernia/HaSertia)
 ```bash
 https://github.com/OmerChernia/HaSertia
 ```
@@ -25,7 +25,8 @@ https://github.com/OmerChernia/HaSertia
 - Full GUI interface
 - Production-ready codebase
   
-### 2. 🛠️ Prototype Repository
+### 2. 🛠️ [Prototype Repository](https://github.com/OmerChernia/HaSertia-Prototype)
+
 ```bash
 https://github.com/OmerChernia/HaSertia-Prototype
 ```
@@ -33,8 +34,8 @@ https://github.com/OmerChernia/HaSertia-Prototype
 - Initial system design
 - User flow simulations
   
-### 3. 📋 Documentation Repository
-[Click here to access system documentation](https://github.com/Hasretia/system-architecture-and-design/wiki)
+### 3. 📋 [Documentation Repository](https://github.com/Hasretia/system-architecture-and-design/wiki)
+
 
 - UML diagrams
 - System architecture specifications
